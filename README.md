@@ -1,5 +1,5 @@
 React and API project.
-You can list top 100 IMDb movies. You can list by category or you can just do a quick search. Once you click the image of the movie, you will see the information, image and a quick description about the selected movie.
+You can list top 100 IMDb movies. You can list by category or you can just do a quick search. Once you click the image of the movie, you will see the information, image and a quick description about the selected movie. I have the related API from rapidapi.com and used axios to reach the data. Have fun!
 
 
 
